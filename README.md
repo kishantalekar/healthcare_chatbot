@@ -1,4 +1,4 @@
-# Health Care Chat Bot
+# Health Care Chat Bot built with react,gemini.
 
 ## Overview
 
